@@ -16,7 +16,7 @@
 import React,{useState} from 'react'
 import Todos from './Todos'
 import Memo from './Memo'
-import Count from './Count'
+import Count from './Increment'
 import { useEffect } from 'react'
 
 let App = () =>{
