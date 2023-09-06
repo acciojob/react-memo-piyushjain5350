@@ -5,7 +5,7 @@ import Memo from "./Memo";
 
 const App=()=>{
     return(
-        <div className="App">
+        <div className="main">
             <Todo/>
             <Increment />
             <Memo/>
